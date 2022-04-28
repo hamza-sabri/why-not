@@ -1,1 +1,3 @@
+# Why Not!
+
 This is a dump project acting as a sandbox for me to learn some Django and other things related to github integrations you know, cus why the hell not 😌 . The fun starts in 3 2 1 .....
